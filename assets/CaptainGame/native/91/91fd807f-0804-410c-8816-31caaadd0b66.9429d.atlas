@@ -1,0 +1,27 @@
+
+free_intro.jpg
+size: 1118,887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bload_bg
+  rotate: true
+  xy: 2, 371
+  size: 514, 1114
+  orig: 514, 1114
+  offset: 0, 0
+  index: -1
+bload_trans
+  rotate: false
+  xy: 382, 137
+  size: 301, 232
+  orig: 301, 232
+  offset: 0, 0
+  index: -1
+bw_shine
+  rotate: true
+  xy: 2, 2
+  size: 367, 378
+  orig: 367, 378
+  offset: 0, 0
+  index: -1

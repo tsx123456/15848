@@ -1,208 +1,201 @@
 
-free_finish.png
-size: 1920,720
+free_finish.jpg
+size: 1366,971
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bload_trans
-  rotate: false
-  xy: 1118, 21
+  rotate: true
+  xy: 1118, 668
   size: 301, 232
   orig: 301, 232
   offset: 0, 0
   index: -1
-bonus_total_win
-  rotate: true
-  xy: 1118, 255
-  size: 461, 107
-  orig: 464, 109
-  offset: 2, 1
-  index: -1
 bw_shine
   rotate: false
-  xy: 1227, 338
+  xy: 2, 75
   size: 367, 378
   orig: 367, 378
   offset: 0, 0
   index: -1
 infobar_coin_00
   rotate: false
-  xy: 1632, 128
+  xy: 1066, 37
   size: 92, 92
   orig: 102, 102
   offset: 5, 5
   index: -1
 infobar_coin_01
   rotate: false
-  xy: 1545, 23
+  xy: 971, 36
   size: 93, 93
   orig: 102, 102
   offset: 5, 5
   index: -1
 infobar_coin_02
   rotate: true
-  xy: 1545, 127
+  xy: 1171, 160
   size: 93, 85
   orig: 102, 102
   offset: 4, 10
   index: -1
 infobar_coin_03
   rotate: false
-  xy: 1227, 260
+  xy: 1171, 82
   size: 91, 76
   orig: 102, 102
   offset: 5, 15
   index: -1
 infobar_coin_04
   rotate: false
-  xy: 1412, 270
+  xy: 94, 7
   size: 90, 66
   orig: 102, 102
   offset: 6, 18
   index: -1
 infobar_coin_05
   rotate: false
-  xy: 1320, 265
+  xy: 2, 2
   size: 90, 71
   orig: 102, 102
   offset: 6, 14
   index: -1
 infobar_coin_06
   rotate: true
-  xy: 1734, 24
+  xy: 1264, 80
   size: 92, 85
   orig: 102, 102
   offset: 6, 7
   index: -1
 infobar_coin_07
   rotate: false
-  xy: 1640, 24
+  xy: 1258, 174
   size: 92, 92
   orig: 102, 102
   offset: 5, 4
   index: -1
 torch_fire_00
   rotate: false
-  xy: 2, 2
+  xy: 371, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_01
   rotate: false
-  xy: 126, 2
+  xy: 1118, 468
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_02
   rotate: false
-  xy: 250, 2
+  xy: 495, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_03
-  rotate: false
-  xy: 374, 2
+  rotate: true
+  xy: 371, 131
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_04
   rotate: false
-  xy: 498, 2
+  xy: 619, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_05
   rotate: false
-  xy: 622, 2
+  xy: 743, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_06
-  rotate: false
-  xy: 746, 2
+  rotate: true
+  xy: 571, 131
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_07
   rotate: false
-  xy: 870, 2
+  xy: 867, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_08
-  rotate: false
-  xy: 994, 2
+  rotate: true
+  xy: 771, 131
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_09
   rotate: false
-  xy: 1421, 70
+  xy: 991, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_10
-  rotate: true
-  xy: 1596, 594
+  rotate: false
+  xy: 1242, 468
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_11
-  rotate: false
-  xy: 1796, 518
+  rotate: true
+  xy: 971, 131
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_12
-  rotate: true
-  xy: 1596, 470
+  rotate: false
+  xy: 1115, 255
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_13
   rotate: false
-  xy: 1796, 318
+  xy: 1239, 268
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_14
   rotate: true
-  xy: 1596, 346
+  xy: 371, 7
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_15
   rotate: true
-  xy: 1596, 222
+  xy: 571, 7
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 torch_fire_16
-  rotate: false
-  xy: 1796, 118
+  rotate: true
+  xy: 771, 7
   size: 122, 198
   orig: 122, 198
   offset: 0, 0
   index: -1
 tw_bg
   rotate: true
-  xy: 2, 202
+  xy: 2, 455
   size: 514, 1114
   orig: 514, 1114
   offset: 0, 0
