@@ -1,0 +1,62 @@
+
+level_change.png
+size: 1238,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_mtp_front_a
+  rotate: false
+  xy: 371, 159
+  size: 420, 227
+  orig: 428, 235
+  offset: 5, 0
+  index: -1
+bonus_mtp_front_b
+  rotate: false
+  xy: 625, 39
+  size: 247, 118
+  orig: 291, 160
+  offset: 21, 20
+  index: -1
+bonus_mtp_glow
+  rotate: false
+  xy: 874, 2
+  size: 157, 156
+  orig: 175, 165
+  offset: 11, 2
+  index: -1
+bw_shine
+  rotate: false
+  xy: 2, 8
+  size: 367, 378
+  orig: 367, 378
+  offset: 0, 0
+  index: -1
+ui_mtp_front_a
+  rotate: false
+  xy: 793, 160
+  size: 417, 226
+  orig: 424, 235
+  offset: 7, 0
+  index: -1
+ui_mtp_front_b
+  rotate: false
+  xy: 371, 31
+  size: 252, 126
+  orig: 291, 160
+  offset: 19, 16
+  index: -1
+ui_mtp_glow
+  rotate: false
+  xy: 1033, 11
+  size: 151, 147
+  orig: 169, 153
+  offset: 9, 3
+  index: -1
+ui_mtp_sweep
+  rotate: true
+  xy: 1186, 85
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1

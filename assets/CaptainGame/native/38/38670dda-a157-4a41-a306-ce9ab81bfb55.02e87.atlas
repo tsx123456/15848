@@ -1,0 +1,208 @@
+
+bg_pirate.png
+size: 1277,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_arm_l
+  rotate: false
+  xy: 489, 760
+  size: 177, 168
+  orig: 179, 170
+  offset: 1, 1
+  index: -1
+bg_armr
+  rotate: false
+  xy: 1013, 907
+  size: 184, 124
+  orig: 187, 126
+  offset: 1, 1
+  index: -1
+bg_beard
+  rotate: true
+  xy: 315, 771
+  size: 159, 172
+  orig: 161, 174
+  offset: 1, 1
+  index: -1
+bg_bicep
+  rotate: false
+  xy: 858, 712
+  size: 219, 193
+  orig: 222, 196
+  offset: 1, 2
+  index: -1
+bg_body
+  rotate: false
+  xy: 754, 2
+  size: 521, 406
+  orig: 523, 408
+  offset: 1, 1
+  index: -1
+bg_body01
+  rotate: false
+  xy: 2, 628
+  size: 290, 210
+  orig: 292, 212
+  offset: 1, 1
+  index: -1
+bg_eye
+  rotate: false
+  xy: 47, 1009
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+bg_eyebrow
+  rotate: false
+  xy: 2, 1010
+  size: 43, 21
+  orig: 45, 23
+  offset: 1, 1
+  index: -1
+bg_forearmr
+  rotate: true
+  xy: 156, 840
+  size: 148, 157
+  orig: 150, 159
+  offset: 1, 1
+  index: -1
+bg_hand
+  rotate: true
+  xy: 2, 862
+  size: 131, 152
+  orig: 131, 152
+  offset: 0, 0
+  index: -1
+bg_hatd
+  rotate: false
+  xy: 294, 530
+  size: 341, 228
+  orig: 343, 230
+  offset: 1, 1
+  index: -1
+bg_head
+  rotate: false
+  xy: 668, 743
+  size: 188, 176
+  orig: 190, 178
+  offset: 1, 1
+  index: -1
+bg_hook
+  rotate: true
+  xy: 701, 921
+  size: 110, 185
+  orig: 112, 187
+  offset: 1, 1
+  index: -1
+bg_mouth
+  rotate: false
+  xy: 384, 982
+  size: 70, 49
+  orig: 72, 51
+  offset: 1, 1
+  index: -1
+bg_mustachel
+  rotate: false
+  xy: 218, 994
+  size: 83, 37
+  orig: 85, 39
+  offset: 1, 1
+  index: -1
+bg_mustacher
+  rotate: false
+  xy: 303, 990
+  size: 79, 41
+  orig: 81, 43
+  offset: 1, 1
+  index: -1
+bg_nose
+  rotate: false
+  xy: 117, 995
+  size: 47, 36
+  orig: 49, 38
+  offset: 1, 1
+  index: -1
+bg_skull
+  rotate: true
+  xy: 166, 995
+  size: 36, 50
+  orig: 38, 52
+  offset: 1, 1
+  index: -1
+bg_sleevefill_r
+  rotate: false
+  xy: 587, 930
+  size: 112, 101
+  orig: 114, 103
+  offset: 1, 1
+  index: -1
+bg_yu01
+  rotate: false
+  xy: 888, 915
+  size: 123, 116
+  orig: 125, 118
+  offset: 1, 1
+  index: -1
+bg_yu02
+  rotate: false
+  xy: 456, 932
+  size: 129, 99
+  orig: 131, 101
+  offset: 1, 1
+  index: -1
+fx_glow
+  rotate: false
+  xy: 637, 410
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fx_spin
+  rotate: false
+  xy: 2, 154
+  size: 374, 374
+  orig: 374, 374
+  offset: 0, 0
+  index: -1
+fx_spin2
+  rotate: false
+  xy: 378, 34
+  size: 374, 374
+  orig: 374, 374
+  offset: 0, 0
+  index: -1
+mg_eye_blink
+  rotate: false
+  xy: 78, 1003
+  size: 37, 28
+  orig: 39, 30
+  offset: 1, 1
+  index: -1
+
+bg_pirate2.png
+size: 1124,1078
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_wheel
+  rotate: false
+  xy: 549, 539
+  size: 573, 537
+  orig: 576, 581
+  offset: 1, 43
+  index: -1
+bg_wheelx
+  rotate: true
+  xy: 2, 497
+  size: 579, 545
+  orig: 585, 551
+  offset: 3, 3
+  index: -1
+mg_wheel
+  rotate: true
+  xy: 549, 2
+  size: 535, 533
+  orig: 537, 535
+  offset: 1, 1
+  index: -1
