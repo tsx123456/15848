@@ -1,0 +1,195 @@
+
+mg_pirate.png
+size: 1261,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_sleeved
+  rotate: false
+  xy: 930, 245
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+mg_arm
+  rotate: false
+  xy: 1089, 47
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+mg_beard
+  rotate: true
+  xy: 753, 87
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+mg_body
+  rotate: false
+  xy: 380, 138
+  size: 371, 246
+  orig: 371, 246
+  offset: 0, 0
+  index: -1
+mg_body01
+  rotate: false
+  xy: 753, 198
+  size: 175, 186
+  orig: 175, 186
+  offset: 0, 0
+  index: -1
+mg_body02
+  rotate: false
+  xy: 983, 139
+  size: 97, 104
+  orig: 99, 105
+  offset: 1, 0
+  index: -1
+mg_body03
+  rotate: true
+  xy: 1190, 296
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+mg_eye
+  rotate: false
+  xy: 1237, 56
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+mg_eye_blink
+  rotate: false
+  xy: 1059, 27
+  size: 26, 21
+  orig: 27, 21
+  offset: 1, 0
+  index: -1
+mg_eyebrow_rd
+  rotate: true
+  xy: 1240, 350
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+mg_forearm
+  rotate: false
+  xy: 877, 87
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+mg_hand
+  rotate: false
+  xy: 1082, 141
+  size: 87, 104
+  orig: 88, 104
+  offset: 0, 0
+  index: -1
+mg_hand_top
+  rotate: true
+  xy: 983, 50
+  size: 87, 104
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+mg_hatd
+  rotate: false
+  xy: 380, 9
+  size: 228, 127
+  orig: 228, 127
+  offset: 0, 0
+  index: -1
+mg_head
+  rotate: false
+  xy: 1065, 247
+  size: 123, 137
+  orig: 123, 137
+  offset: 0, 0
+  index: -1
+mg_hook
+  rotate: true
+  xy: 840, 3
+  size: 82, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+mg_l_sleeved
+  rotate: false
+  xy: 610, 9
+  size: 138, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+mg_l_thumbd
+  rotate: false
+  xy: 1190, 255
+  size: 27, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+mg_mouthd
+  rotate: false
+  xy: 930, 219
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+mg_mustacheRd
+  rotate: true
+  xy: 956, 28
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+mg_mustached
+  rotate: false
+  xy: 1182, 43
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+mg_nosed
+  rotate: false
+  xy: 1022, 23
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+mg_skulld
+  rotate: true
+  xy: 983, 21
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+mg_sleevef
+  rotate: true
+  xy: 1182, 73
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+mg_wheel
+  rotate: false
+  xy: 2, 9
+  size: 376, 375
+  orig: 376, 375
+  offset: 0, 0
+  index: -1
+mg_yu01
+  rotate: false
+  xy: 750, 2
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+mg_yu02
+  rotate: true
+  xy: 1171, 153
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
